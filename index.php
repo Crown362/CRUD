@@ -11,7 +11,7 @@ include 'db.php';
 </head>
 <body>
     <div class="container">
-        <h1>CRUD Application</h1>
+        <h1>CRUD Application Using php</h1>
         <!-- Your PHP code for displaying records -->
         <?php 
         $sql = "SELECT * FROM items";
